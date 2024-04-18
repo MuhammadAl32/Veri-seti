@@ -1,0 +1,728 @@
+{
+    "HASTANELER": [
+      {
+        "id": 1,
+        "name": "Bayrampaşa Devlet Hastanesi",
+        "location": "Bayrampaşa"
+      },
+      {
+        "id": 2,
+        "name": "Başakşehir Devlet Hastanesi",
+        "location": "Başakşehir"
+      },
+      {
+        "id": 3,
+        "name": "Bağcılar Devlet Hastanesi",
+        "location": "Bağcılar"
+      },
+      {
+        "id": 4,
+        "name": "Erenköy Ruh ve Sinir Hastalıkları ve Sinir Hastalıkları Hastanesi",
+        "location": "Kadıköy"
+      },
+      {
+        "id": 5,
+        "name": "Gaziosman Paşa Hastanesi",
+        "location": "Gaziosman Paşa"
+      },
+      {
+        "id": 6,
+        "name": "Haydarpaşa Devlet Hastanesi",
+        "location": "Üsküdar"
+      },
+      {
+        "id": 7,
+        "name": "Bakırköy Devlet Hastanesi",
+        "location": "Bakırköy"
+      },
+      {
+        "id": 8,
+        "name": "Zeytinburnu Devlet Hastanesi",
+        "location": "Zeytinburnu"
+      },
+      {
+        "id": 9,
+        "name": "Kadıköy Devlet Hastanesi",
+        "location": "Kadıköy"
+      }
+    ],
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+      "BÖLÜMLER": [
+        {
+            "id": 20,
+            "ad": "ACİL SERVİS"
+        },
+        {
+            "id": 21,
+            "ad": "ALGOLOJİ"
+        },
+        {
+            "id": 22,
+            "ad": "ANESTEZİ VE REANİMASYON"
+        },
+        {
+            "id": 23,
+            "ad": "BESLENME VE DİYET"
+        },
+        {
+            "id": 24,
+            "ad": "DERMATOLOJİ"
+        },
+        {
+            "id": 25,
+            "ad": "DİYABET TEKNOLOJİLERİ MERKEZİ"
+        },
+        {
+            "id": 26,
+            "ad": "ENDOKRİNOLOJİ VE METABOLİZMA HASTALIKLARI"
+        },
+        {
+            "id": 27,
+            "ad": "ENDOSKOPİ ÜNİTESİ"
+        },
+        {
+            "id": 28,
+            "ad": "FİZİK TEDAVİ VE REHABİLİTASYON"
+        },
+        {
+            "id": 29,
+            "ad": "GASTROENTEROLOJİ"
+        },
+        {
+            "id": 30,
+            "ad": "GÖZ HASTALIKLARI"
+        },
+        {
+            "id": 31,
+            "ad": "İÇ HASTALIKLARI"
+        },
+        {
+            "id": 32,
+            "ad": "KARDİYOLOJİ"
+        },
+        {
+            "id": 33,
+            "ad": "KBB HASTALIKLARI"
+        },
+        {
+            "id": 34,
+            "ad": "LABORATUVAR"
+        },
+        {
+            "id": 35,
+            "ad": "NÖROLOJİ"
+        },
+        {
+            "id": 36,
+            "ad": "ORTOPEDİ VE TRAVMATOLOJİ"
+        },
+        {
+            "id": 37,
+            "ad": "PODOLOJİ"
+        },
+        {
+            "id": 38,
+            "ad": "PSİKOLOJİ"
+        },
+        {
+            "id": 39,
+            "ad": "RADYOLOJİ"
+        },
+        {
+            "id": 40,
+            "ad": "ÜROLOJİ"
+        },
+        {
+            "id": 41,
+            "ad": "YARA TEDAVİ VE BAKIM MERKEZİ"
+        },
+        {
+            "id": 42,
+            "ad": "Ağız ve Diş Hastalıkları Ağız ve Diş Hastalıkları"
+        },
+        {
+            "id": 43,
+            "ad": "Aile Hekimliği"
+        },
+        {
+            "id": 44,
+            "ad": "Beslenme ve Diyetetik"
+        },
+        {
+            "id": 45,
+            "ad": "Beyin ve Sinir Cerrahisi"
+        },
+        {
+            "id": 46,
+            "ad": "Çocuk Cerrahi"
+        },
+        {
+            "id": 47,
+            "ad": "Çocuk Sağlığı ve Hastalıkları"
+        },
+        {
+            "id": 48,
+            "ad": "Enfeksiyon Hastalıkları ve Klinik Mikrobiyoloji"
+        },
+        {
+            "id": 49,
+            "ad": "Erişkin Ruh Sağlığı ve Hastalıkları"
+        },
+        {
+            "id": 50,
+            "ad": "Genel Cerrahi"
+        },
+        {
+            "id": 51,
+            "ad": "Göğüs Hastalıkları"
+        },
+        {
+            "id": 52,
+            "ad": "Kadın Hastalıkları ve Doğum"
+        },
+        {
+            "id": 53,
+            "ad": "Plastik ve Rekonstrüktif Cerrahi"
+        },
+        {
+            "id": 54,
+            "ad": "Adli Tip"
+        },
+        {
+            "id": 55,
+            "ad": "Biyokimya ve Klinik Biyokimya"
+        },
+        {
+            "id": 56,
+            "ad": "Cerrahi Onkoloji (Kanser Cerrahisi)"
+        },
+        {
+            "id": 57,
+            "ad": "Çocuk Endokrinolojisi"
+        },
+        {
+            "id": 58,
+            "ad": "Gastroenteroloji"
+        },
+        {
+            "id": 59,
+            "ad": "Kalp ve Damar Cerrahisi"
+        },
+        {
+            "id": 60,
+            "ad": "Nefroloji"
+        },
+        {
+            "id": 61,
+            "ad": "Neonatoloji"
+        },
+        {
+            "id": 62,
+            "ad": "Nükleer Tıp"
+        },
+        {
+            "id": 63,
+            "ad": "Tibbi Genetik"
+        },
+        {
+            "id": 64,
+            "ad": "Yoğun Bakım"
+        },
+        {
+            "id": 65,
+            "ad": "Tibbi Patoloji"
+        },
+        {
+            "id": 66,
+            "ad": "Çocuk ve Ergen Psikiyatristi"
+        },
+        {
+            "id": 67,
+            "ad": "Anjiyo Ünitesi"
+        },
+        {
+            "id": 68,
+            "ad": "Alerji Hastalıkları"
+        },
+        {
+            "id": 69,
+            "ad": "Böbrek Nakli Merkezi "
+        },
+        {
+            "id": 70,
+            "ad": "Çocuk Kalp ve Damar Cerrahisi"
+        },
+        {
+            "id": 71,
+            "ad": "Çocuk Nefrolojisi"
+        },
+        {
+            "id": 72,
+            "ad": "El ve Mikro Cerrahi"
+        },
+        {
+            "id": 73,
+            "ad": "Hematoloji"
+        },
+        {
+            "id": 74,
+            "ad": "Göğüs Cerrahisi"
+        },
+        {
+            "id": 75,
+            "ad": "Geleneksel ve Tamamlayıcı Tıp Merkezi"
+        },
+        {
+            "id": 76,
+            "ad": "Güzellik, Estetik ve Kozmetoloji"
+        },
+        {
+            "id": 77,
+            "ad": "Lazer Epilasyon"
+        },
+        {
+            "id": 78,
+            "ad": "Meme Cerrahisi"
+        },
+        {
+            "id": 79,
+            "ad": "Pankreas Nakil Merkezi"
+        },
+        {
+            "id": 80,
+            "ad": "Organ Nakli Merkezi"
+        },
+        {
+            "id": 81,
+            "ad": "Onkoloji"
+        },
+        {
+            "id": 82,
+            "ad": "Pediatrik Kemik İliği Nakli"
+        },
+        {
+            "id": 83,
+            "ad": "Endokrinoloji ve Metabolizma Hastalıkları"
+        },
+        {
+            "id": 84,
+            "ad": "Patoloji"
+        },
+        {
+            "id": 85,
+            "ad": "Geriatri"
+        },
+        {
+            "id": 86,
+            "ad": "Klinik Nörofizyoloji"
+        },
+        {
+            "id": 87,
+            "ad": "Romatoloji"
+        },
+        {
+            "id": 88,
+            "ad": "Tıbbi biyoloji"
+        },
+        {
+            "id": 89,
+            "ad": "Tıbbi Biyokimya"
+        },
+        {
+            "id": 90,
+            "ad": "Çocuk Kardiyolojisi"
+        }
+    ],
+    
+    
+    
+    
+    
+    
+    "Doktorlar_BAYRAMPAŞA": [
+      {
+          "id": 100,
+          "Ad Soyad": "Dr.Tufan Yıldırım",
+          "Bölüm": "Acil Servis"
+      },
+      {
+          "id": 101,
+          "Ad Soyad": "Dr.Ozan Şahin",
+          "Bölüm": "Acil Servis"
+      },
+      {
+          "id": 102,
+          "Ad Soyad": "Dr.Osman Avşar Gül",
+          "Bölüm": "Acil Servis"
+      },
+      {
+          "id": 103,
+          "Ad Soyad": "Dr.Mustafa Yalımol",
+          "Bölüm": "Acil Servis"
+      },
+      {
+          "id": 104,
+          "Ad Soyad": "Dr.İsa Günaydın",
+          "Bölüm": "Acil Servis"
+      },
+      {
+          "id": 105,
+          "Ad Soyad": "Dr.Zekiye Akalınoğlu",
+          "Bölüm": "Ağız ve Diş Hastalıkları"
+      },
+      {
+          "id": 106,
+          "Ad Soyad": "Dr.Ahmet Kolsuz",
+          "Bölüm": "Aile Hekimliği"
+      },
+      {
+          "id": 107,
+          "Ad Soyad": "Dr.Katip Levent Yazıcıoğlu",
+          "Bölüm": "Aile Hekimliği"
+      },
+      {
+          "id": 108,
+          "Ad Soyad": "Dr.Selen Ediz",
+          "Bölüm": "Anestezi ve Reanimasyon"
+      },
+      {
+          "id": 109,
+          "Ad Soyad": "Dr.İlhan Zeynel Köseoğlu",
+          "Bölüm": "Anestezi ve Reanimasyon"
+      },
+      {
+          "id": 110,
+          "Ad Soyad": "Dr.Nuray Çetinkol",
+          "Bölüm": "Anestezi ve Reanimasyon"
+      },
+
+      {
+            "id": 111,
+            "Ad Soyad": "Dr. İlter Emin",
+            "Bölüm": "Anestezi ve Reanimasyon"
+        },
+        {
+            "id": 112,
+            "Ad Soyad": "Dr. Mine Özgümüş",
+            "Bölüm": "Anestezi ve Reanimasyon"
+        },
+        {
+            "id": 113,
+            "Ad Soyad": "Dr. Mustafa Metin",
+            "Bölüm": "Anestezi ve Reanimasyon"
+        },
+        {
+            "id": 114,
+            "Ad Soyad": "Dr. Mehmet Mercan",
+            "Bölüm": "Anestezi ve Reanimasyon"
+        },
+        {
+            "id": 115,
+            "Ad Soyad": "Dr. Ebru Geçek Aktaş",
+            "Bölüm": "Beyin ve Sinir Cerrahisi"
+        },
+        {
+            "id": 116,
+            "Ad Soyad": "Dr. Mahmut Emre Oran",
+            "Bölüm": "Beyin ve Sinir Cerrahisi"
+        },
+        {
+            "id": 117,
+            "Ad Soyad": "Dr. Rüya Ayşe",
+            "Bölüm": "Çocuk Cerrahi"
+        },
+        {
+            "id": 117,
+            "Ad Soyad": "Dr. Canan Günaydın",
+            "Bölüm": "Çocuk Sağlığı ve Hastalıkları"
+        },
+        {
+            "id": 118,
+            "Ad Soyad": "Dr. Sibel Ergin Şahin",
+            "Bölüm": "Çocuk Sağlığı ve Hastalıkları"
+        },
+        {
+            "id": 119,
+            "Ad Soyad": "Dr. Cemile Burcu Kesici",
+            "Bölüm": "Çocuk Sağlığı ve Hastalıkları"
+        },
+        {
+            "id": 120,
+            "Ad Soyad": "Dr. Merve Adile Celep Kiyak",
+            "Bölüm": "Çocuk Sağlığı ve Hastalıkları"
+        },
+        {
+            "id": 121,
+            "Ad Soyad": "Dr. Nurcan Keskin Osmanoğlu",
+            "Bölüm": "Çocuk Sağlığı ve Hastalıkları"
+        },
+        {
+            "id": 122,
+            "Ad Soyad": "Dr. Ersin Şimşek",
+            "Bölüm": "Çocuk Sağlığı ve Hastalıkları"
+        },
+        {
+            "id": 123,
+            "Ad Soyad": "Dr. Aysel Erdem Söğütlü",
+            "Bölüm": "Çocuk Sağlığı ve Hastalıkları"
+        },
+        {
+            "id": 124,
+            "Ad Soyad": "Dr.Merve Erdemir Kula",
+            "Bölüm": "Çocuk Sağlığı ve Hastalıkları"
+        },
+        {
+            "id": 125,
+            "Ad Soyad": "Dr.İbrahim Korkmaz",
+            "Bölüm": "Dermatoloji(Cildiye)"
+        },
+        {
+            "id": 126,
+            "Ad Soyad": "Dr.Tuğba Doruk",
+            "Bölüm": "Dermatoloji(Cildiye)"
+        },
+        {
+            "id": 127,
+            "Ad Soyad": "Dr.Ramazan Kutluk",
+            "Bölüm": "Dermatoloji(Cildiye)"
+        },
+        {
+            "id": 128,
+            "Ad Soyad": "Dr.Nurşah Doğan",
+            "Bölüm": "Dermatoloji(Cildiye)"
+        },
+        {
+            "id": 129,
+            "Ad Soyad": "Dr.Şermin Ulutok",
+            "Bölüm": "Enfeksiyon Hastalıkları"
+        },
+        {
+            "id": 130,
+            "Ad Soyad": "Dr.Selim Erdem",
+            "Bölüm": "Fizik Tedavi ve Rehabilitasyon"
+        },
+        {
+            "id": 131,
+            "Ad Soyad": "Dr.Merve Canlı",
+            "Bölüm": "Fizik Tedavi ve Rehabilitasyon"
+        },
+        {
+            "id": 132,
+            "Ad Soyad": "Dr.Meryem Güneşer Güleç",
+            "Bölüm": "Fizik Tedavi ve Rehabilitasyon"
+        },
+        {
+            "id": 133,
+            "Ad Soyad": "Dr.Mihriban Adalı Yılmaz",
+            "Bölüm": "Fizik Tedavi ve Rehabilitasyon"
+        },
+        {
+            "id": 134,
+            "Ad Soyad": "Dr.Abdülhakim İbrahim Ulusoy",
+            "Bölüm": "Genel Cerrahi"
+        },
+        {
+            "id": 135,
+            "Ad Soyad": "Dr.Osman Osmanoğlu",
+            "Bölüm": "Genel Cerrahi"
+        },
+        {
+            "id": 136,
+            "Ad Soyad": "Dr.Şaban Sami Çetin",
+            "Bölüm": "Genel Cerrahi"
+        },
+        {
+            "id": 137,
+            "Ad Soyad": "Dr.Cengiz Aşcı",
+            "Bölüm": "Genel Cerrahi"
+        },
+        {
+            "id": 138,
+            "Ad Soyad": "Dr.Azize Üzel",
+            "Bölüm": "Göğüs Hastalıkları"
+        },
+        {
+            "id": 139,
+            "Ad Soyad": "Dr.Çiğdem Başkara",
+            "Bölüm": "Göğüs Hastalıkları"
+        },
+        {
+            "id": 140,
+            "Ad Soyad": "Dr.Gülcihan Duman",
+            "Bölüm": "Göğüs Hastalıkları"
+        },
+        {
+            "id": 141,
+            "Ad Soyad": "Dr.Selma Altun Keleş",
+            "Bölüm": "Göğüs Hastalıkları"
+        },
+        {
+            "id": 142,
+            "Ad Soyad": "Dr.Yasemin Çabuk",
+            "Bölüm": "Göz Hastalıkları"
+        },
+        {
+            "id": 143,
+            "Ad Soyad": "Dr.Nebi Köse",
+            "Bölüm": "Göz Hastalıkları"
+        },
+        {
+            "id": 144,
+            "Ad Soyad": "Dr.Aksel Erenberk",
+            "Bölüm": "Göz Hastalıkları"
+        },
+        {
+            "id": 145,
+            "Ad Soyad": "Dr.Meryem Yaşar Ceritoğlu",
+            "Bölüm": "Göz Hastalıkları"
+        },
+        {
+            "id": 146,
+            "Ad Soyad": "Dr.Yurdaer Özcan",
+            "Bölüm": "İç Hastalıkları (Dahiliye)"
+        },
+        {
+            "id": 147,
+            "Ad Soyad": "Dr.Ahmet Aydın",
+            "Bölüm": "İç Hastalıkları (Dahiliye)"
+        },
+        {
+            "id": 148,
+            "Ad Soyad": "Dr.Turgay Işık",
+            "Bölüm": "İç Hastalıkları (Dahiliye)"
+        },
+        {
+            "id": 149,
+            "Ad Soyad": "Dr.Cengiz Işık",
+            "Bölüm": "İç Hastalıkları (Dahiliye)"
+        },
+        {
+            "id": 150,
+            "Ad Soyad": "Nadiye Köroğlu",
+            "Bölüm": "Kadın Hastalıkları ve Doğum"
+        },
+        {
+            "id": 151,
+            "Ad Soyad": "Ebru Yaltı",
+            "Bölüm": "Kadın Hastalıkları ve Doğum"
+        },
+        {
+            "id": 152,
+            "Ad Soyad": "Mustafa Koca",
+            "Bölüm": "Kadın Hastalıkları ve Doğum"
+        },
+        {
+            "id": 153,
+            "Ad Soyad": "Hasan Kolak",
+            "Bölüm": "Kadın Hastalıkları ve Doğum"
+        },
+        {
+            "id": 154,
+            "Ad Soyad": "Nurten Şahin",
+            "Bölüm": "Kardiyoloji"
+        },
+        {
+            "id": 155,
+            "Ad Soyad": "Sebahattin Aydın",
+            "Bölüm": "Kardiyoloji"
+        },
+        {
+            "id": 156,
+            "Ad Soyad": "Alaaddin Zirek",
+            "Bölüm": "KBB Hastalıkları"
+        },
+        {
+            "id": 157,
+            "Ad Soyad": "Orhan Gül",
+            "Bölüm": "KBB Hastalıkları"
+        },
+        {
+            "id": 158,
+            "Ad Soyad": "Volkan Yaşar Işıksaçan",
+            "Bölüm": "KBB Hastalıkları"
+        },
+        {
+            "id": 159,
+            "Ad Soyad": "Hasan Sabri Alayalı",
+            "Bölüm": "KBB Hastalıkları"
+        },
+        {
+            "id": 160,
+            "Ad Soyad": "Sibel Nakşılar",
+            "Bölüm": "Nöroloji"
+        },
+        {
+            "id": 161,
+            "Ad Soyad": "Özden Özbek Kahraman",
+            "Bölüm": "Nöroloj"
+        },
+        {
+            "id": 162,
+            "Ad Soyad": "Canan Balkan",
+            "Bölüm": "Nöroloj"
+        },
+        {
+            "id": 163,
+            "Ad Soyad": "Nilgün Vardar",
+            "Bölüm": "Nöroloj"
+        },
+        {
+            "id": 164,
+            "Ad Soyad": "Göksun Payaslı",
+            "Bölüm": "Ortopedi ve Travmatoloji"
+        },
+        {
+            "id": 165,
+            "Ad Soyad": "Cihangir Sarı",
+            "Bölüm": "Ortopedi ve Travmatoloji"
+        },
+        {
+            "id": 166,
+            "Ad Soyad": "Çoşkun Aykıl",
+            "Bölüm": "Ortopedi ve Travmatoloji"
+        },
+        {
+            "id": 167,
+            "Ad Soyad": "Varujan Haviters",
+            "Bölüm": "Ortopedi ve Travmatoloji"
+        },
+        {
+            "id": 168,
+            "Ad Soyad": "Nezih Yıldız Alaybeyoğlu",
+            "Bölüm": "Plastik Rekonstrüktif ve Estetik Cerrahi"
+        },
+        {
+            "id": 169,
+            "Ad Soyad": "Oktay Kılıç",
+            "Bölüm": "Psikiyatri (Ruh Sağlığı)"
+        },
+        {
+            "id": 170,
+            "Ad Soyad": "Sevda Uyar",
+            "Bölüm": "Psikiyatri (Ruh Sağlığı)"
+        },
+        {
+            "id": 171,
+            "Ad Soyad": "Özgür Özdemir",
+            "Bölüm": "Psikiyatri (Ruh Sağlığı)"
+        },
+        {
+            "id": 172,
+            "Ad Soyad": "Özgül Çınar",
+            "Bölüm": "Psikiyatri (Ruh Sağlığı)"
+        }
+    ]
+}
